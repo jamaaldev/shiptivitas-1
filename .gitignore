@@ -22,3 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 possible_solution_yc_task1.patch
+src/Board.js
+solution_step_two_frontend.patch
+solution_step_one.patch
